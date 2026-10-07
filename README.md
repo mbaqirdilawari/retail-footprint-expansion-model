@@ -283,7 +283,7 @@ retail-footprint-expansion-model/
 ├── vba/FootprintModel.bas           # VBA macro
 ├── legacy/main.py                   # original point in polygon script
 ├── notebooks/                       # step by step walkthrough
-├── outputs/                         # figures, tables, interactive map
+├── outputs/                         # figures, tables, interactive map (guide: outputs/README.md)
 ├── scripts/                         # data preparation and the VBA check
 └── tests/                           # 21 tests
 ```
