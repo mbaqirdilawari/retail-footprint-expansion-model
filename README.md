@@ -1,3 +1,5 @@
+> **Disclaimer:** All data in this repository is simulated. It is used only to demonstrate the modelling approach and the work performed, and it is not real company data.
+
 # Retail Footprint Expansion Model
 
 **How many freezers should an ice cream business invest in, in every district of Pakistan, and do enough real shops exist to take them?**
