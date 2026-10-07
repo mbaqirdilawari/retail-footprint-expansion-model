@@ -1,0 +1,7 @@
+measure,value
+Retailer records,41544
+Distinct typed district names,1101
+Official districts after mapping,114
+Coordinates fixed (latitude and longitude swapped),153
+Coordinates invalid (missing or outside Pakistan),92
+Records mapped to a district,41452

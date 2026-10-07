@@ -1,0 +1,2 @@
+# The VBA editor expects Windows line endings when importing modules
+*.bas text eol=crlf

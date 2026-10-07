@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+~$*.xlsx
+*.xlsm
+# Large and fully reproducible: rebuilt by run_pipeline.py
+data/processed/retailers_mapped.csv

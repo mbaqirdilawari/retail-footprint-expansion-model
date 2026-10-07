@@ -1,0 +1,116 @@
+district,province,region,lsm5_share,nature_of_district
+Abbottabad,Khyber Pakhtunkhwa,Islamabad Region,0.263,Stronghold
+Attock,Punjab,Islamabad Region,0.26,Stronghold
+Awaran,Balochistan,Karachi Region,0.288,Rest
+Badin,Sindh,Karachi Region,0.237,Neighbouring
+Bahawalnagar,Punjab,Multan Region,0.25,Population High
+Bahawalpur,Punjab,Multan Region,0.375,Neighbouring
+Bajaur,Khyber Pakhtunkhwa,Peshawar Region,0.116,Rest
+Bannu,Khyber Pakhtunkhwa,Peshawar Region,0.112,Rest
+Barkhan,Balochistan,Multan Region,0.102,Rest
+Battagram,Khyber Pakhtunkhwa,Islamabad Region,0.139,Rest
+Bhakkar,Punjab,Multan Region,0.21,Neighbouring
+Buner,Khyber Pakhtunkhwa,Peshawar Region,0.08,Neighbouring
+Chagai,Balochistan,Karachi Region,0.167,Rest
+Chakwal,Punjab,Islamabad Region,0.287,Neighbouring
+Charsadda,Khyber Pakhtunkhwa,Peshawar Region,0.306,Stronghold
+Chitral,Khyber Pakhtunkhwa,Peshawar Region,0.184,Rest
+Dadu,Sindh,Karachi Region,0.255,Neighbouring
+Dera Bugti,Balochistan,Multan Region,0.31,Rest
+Dera Ghazi Khan,Punjab,Multan Region,0.316,Neighbouring
+Dera Ismail Khan,Khyber Pakhtunkhwa,Multan Region,0.25,Rest
+Faisalabad,Punjab,Lahore Region,0.408,Stronghold
+Ghotki,Sindh,Multan Region,0.264,Rest
+Gujranwala,Punjab,Lahore Region,0.477,Stronghold
+Gujrat,Punjab,Lahore Region,0.388,Stronghold
+Gwadar,Balochistan,Karachi Region,0.435,Rest
+Hafizabad,Punjab,Lahore Region,0.381,Stronghold
+Hangu,Khyber Pakhtunkhwa,Peshawar Region,0.235,Rest
+Haripur,Khyber Pakhtunkhwa,Islamabad Region,0.195,Stronghold
+Hyderabad,Sindh,Karachi Region,0.667,Stronghold
+Islamabad Capital Territory,Islamabad Capital Territory,Islamabad Region,0.346,Stronghold
+Jacobabad,Sindh,Multan Region,0.3,Rest
+Jafarabad,Balochistan,Multan Region,0.238,Rest
+Jamshoro,Sindh,Karachi Region,0.448,Stronghold
+Jhal Magsi,Balochistan,Karachi Region,0.208,Rest
+Jhang,Punjab,Multan Region,0.269,Stronghold
+Jhelum,Punjab,Islamabad Region,0.361,Neighbouring
+Kachhi,Balochistan,Multan Region,0.212,Rest
+Kalat,Balochistan,Karachi Region,0.181,Rest
+Karachi,Sindh,Karachi Region,0.692,Stronghold
+Karak,Khyber Pakhtunkhwa,Peshawar Region,0.11,Rest
+Kashmore,Sindh,Multan Region,0.242,Rest
+Kasur,Punjab,Lahore Region,0.278,Stronghold
+Kech,Balochistan,Karachi Region,0.371,Rest
+Khairpur,Sindh,Karachi Region,0.381,Population High
+Khanewal,Punjab,Multan Region,0.223,Stronghold
+Kharan,Balochistan,Karachi Region,0.275,Rest
+Khushab,Punjab,Islamabad Region,0.254,Neighbouring
+Khuzdar,Balochistan,Karachi Region,0.38,Rest
+Khyber,Khyber Pakhtunkhwa,Peshawar Region,0.205,Neighbouring
+Kohat,Khyber Pakhtunkhwa,Peshawar Region,0.228,Neighbouring
+Kohistan,Khyber Pakhtunkhwa,Islamabad Region,0.107,Rest
+Kohlu,Balochistan,Multan Region,0.142,Rest
+Kurram,Khyber Pakhtunkhwa,Peshawar Region,0.133,Rest
+Lahore,Punjab,Lahore Region,0.71,Stronghold
+Lakki Marwat,Khyber Pakhtunkhwa,Peshawar Region,0.18,Rest
+Lasbela,Balochistan,Karachi Region,0.414,Neighbouring
+Layyah,Punjab,Multan Region,0.203,Neighbouring
+Lodhran,Punjab,Multan Region,0.213,Neighbouring
+Loralai,Balochistan,Multan Region,0.176,Rest
+Lower Dir,Khyber Pakhtunkhwa,Peshawar Region,0.153,Rest
+Malakand,Khyber Pakhtunkhwa,Peshawar Region,0.08,Neighbouring
+Mandi Bahauddin,Punjab,Lahore Region,0.237,Neighbouring
+Mansehra,Khyber Pakhtunkhwa,Islamabad Region,0.212,Neighbouring
+Mardan,Khyber Pakhtunkhwa,Peshawar Region,0.198,Stronghold
+Mastung,Balochistan,Multan Region,0.168,Rest
+Matiari,Sindh,Karachi Region,0.179,Neighbouring
+Mianwali,Punjab,Peshawar Region,0.287,Neighbouring
+Mirpurkhas,Sindh,Karachi Region,0.24,Neighbouring
+Mohmand,Khyber Pakhtunkhwa,Peshawar Region,0.13,Neighbouring
+Multan,Punjab,Multan Region,0.424,Stronghold
+Musakhel,Balochistan,Multan Region,0.12,Rest
+Muzaffargarh,Punjab,Multan Region,0.231,Stronghold
+Narowal,Punjab,Lahore Region,0.168,Stronghold
+Nasirabad,Balochistan,Multan Region,0.225,Rest
+Naushehro Feroze,Sindh,Karachi Region,0.322,Neighbouring
+Nawabshah,Sindh,Karachi Region,0.34,Neighbouring
+North Waziristan,Khyber Pakhtunkhwa,Peshawar Region,0.173,Rest
+Nowshera,Khyber Pakhtunkhwa,Peshawar Region,0.256,Stronghold
+Nushki,Balochistan,Karachi Region,0.295,Rest
+Okara,Punjab,Lahore Region,0.304,Neighbouring
+Orakzai,Khyber Pakhtunkhwa,Peshawar Region,0.101,Neighbouring
+Pakpattan,Punjab,Multan Region,0.222,Rest
+Panjgur,Balochistan,Karachi Region,0.251,Rest
+Peshawar,Khyber Pakhtunkhwa,Peshawar Region,0.377,Stronghold
+Pishin,Balochistan,Multan Region,0.325,Rest
+Qambar Shahdadkot,Sindh,Karachi Region,0.416,Population High
+Qilla Abdullah,Balochistan,Multan Region,0.26,Rest
+Qilla Saifullah,Balochistan,Multan Region,0.281,Rest
+Quetta,Balochistan,Multan Region,0.554,Population High
+Rahim Yar Khan,Punjab,Multan Region,0.315,Neighbouring
+Rajanpur,Punjab,Multan Region,0.28,Neighbouring
+Rawalpindi,Punjab,Islamabad Region,0.568,Stronghold
+Sahiwal,Punjab,Multan Region,0.268,Neighbouring
+Sanghar,Sindh,Karachi Region,0.237,Neighbouring
+Sargodha,Punjab,Lahore Region,0.422,Stronghold
+Shangla,Khyber Pakhtunkhwa,Islamabad Region,0.08,Rest
+Sheikhpura,Punjab,Lahore Region,0.279,Stronghold
+Shikarpur,Sindh,Karachi Region,0.213,Rest
+Sialkot,Punjab,Lahore Region,0.344,Stronghold
+Sibi,Balochistan,Multan Region,0.331,Rest
+South Waziristan,Khyber Pakhtunkhwa,Multan Region,0.126,Rest
+Sukkur,Sindh,Karachi Region,0.449,Population High
+Swabi,Khyber Pakhtunkhwa,Islamabad Region,0.32,Neighbouring
+Swat,Khyber Pakhtunkhwa,Peshawar Region,0.295,Population High
+Tando Allahyar,Sindh,Karachi Region,0.288,Stronghold
+Tando Muhammad Khan,Sindh,Karachi Region,0.248,Neighbouring
+Tank,Khyber Pakhtunkhwa,Peshawar Region,0.197,Rest
+Tharparkar,Sindh,Karachi Region,0.235,Rest
+Thatta,Sindh,Karachi Region,0.217,Neighbouring
+Toba Tek Singh,Punjab,Multan Region,0.296,Neighbouring
+Umerkot,Sindh,Karachi Region,0.227,Rest
+Upper Dir,Khyber Pakhtunkhwa,Peshawar Region,0.113,Rest
+Vihari,Punjab,Multan Region,0.233,Neighbouring
+Zhob,Balochistan,Multan Region,0.154,Rest
+Ziarat,Balochistan,Multan Region,0.232,Rest
