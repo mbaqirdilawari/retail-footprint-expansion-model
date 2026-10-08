@@ -29,7 +29,9 @@ def load_inputs():
     return districts, population, attrs, retailers, census
 
 
-def run(save: bool = False, basis: str = config.NEW_OUTLET_TP_BASIS) -> dict:
+def run(save: bool = False, basis: str | None = None) -> dict:
+    """Run the model. Settings are read from config at call time, so they can be overridden."""
+    basis = basis or config.NEW_OUTLET_TP_BASIS
     districts, population, attrs, retailers, census = load_inputs()
 
     # Geospatial mapping of retailers
@@ -37,7 +39,7 @@ def run(save: bool = False, basis: str = config.NEW_OUTLET_TP_BASIS) -> dict:
 
     # Phase 1
     metrics = model.district_metrics(retailers_mapped, attrs, population)
-    recommended = model.recommend(metrics, basis=basis)
+    recommended = model.recommend(metrics, basis=basis, ideal_tp=config.IDEAL_TP, ideal_ppo=config.IDEAL_PPO)
     prioritized = model.prioritize(recommended)
 
     # Phase 2

@@ -301,7 +301,7 @@ retail-footprint-expansion-model/
 ├── notebooks/                       # step by step walkthrough
 ├── outputs/                         # figures, tables, interactive map (guide: outputs/README.md)
 ├── scripts/                         # data preparation and the VBA check
-└── tests/                           # 21 tests
+└── tests/                           # 25 tests
 ```
 
 ## 11. How to run it
@@ -317,12 +317,23 @@ python -m venv .venv
 source .venv/bin/activate          # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python run_pipeline.py             # builds every table, chart, the map and the Excel model
-python -m pytest                   # runs the 21 tests
+python -m pytest                   # runs the 25 tests
 ```
 
 * `python run_pipeline.py --simulate` regenerates the simulated data first (it is fixed by a random seed, so the result is the same every time).
 * Open `notebooks/footprint_expansion_walkthrough.ipynb` for the guided walkthrough.
 * Every setting is in [`src/footprint/config.py`](src/footprint/config.py).
+
+**Trying different settings without editing code** (**Terminal**):
+
+```bash
+python run_pipeline.py --ideal-tp 16                       # stop adding freezers at 16 liters per week
+python run_pipeline.py --ideal-ppo 900                     # use a different ideal population per outlet
+python run_pipeline.py --basis district_tp                 # assume new outlets sell like the district average
+python run_pipeline.py --help                              # list every option
+```
+
+These options change the settings for that one run, and every output is rebuilt with them. Run `python run_pipeline.py` with no options to go back to the default results.
 
 ## 12. Data sources and licenses
 
