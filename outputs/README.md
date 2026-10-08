@@ -36,6 +36,9 @@ The exact stores the sales team should visit, one row per new freezer.
 | `channel`, `turnover_band`, `est_monthly_turnover_pkr` | Store type and estimated monthly turnover in PKR |
 | `latitude`, `longitude` | Store location |
 
+### `ideal_tp_sensitivity.csv`
+The plan rerun for Ideal TP values from 13 to 17 liters per freezer per week: districts with demand, shortlisted districts, Phase 1 demand, final new outlets and supply constrained districts for each value.
+
 ### `data_quality_summary.csv`
 Counts from the data cleaning step: retailer records, distinct typed district names, coordinates fixed or invalid, and records mapped to an official district.
 
@@ -53,6 +56,7 @@ Result of running the VBA macro (`scripts/check_vba_with_libreoffice.py`): the m
 | `05_tp_curve_example.png` | One district: volume and TP as freezers are added, and where to stop |
 | `06_demand_vs_supply.png` | Phase 1 demand against Phase 2 usable shops for the largest districts |
 | `07_census_funnel.png` | How the retail census is narrowed down to usable shops |
+| `08_ideal_tp_sensitivity.png` | Demand, final new outlets and shortlisted districts for Ideal TP values from 13 to 17 |
 
 ## Interactive map
 

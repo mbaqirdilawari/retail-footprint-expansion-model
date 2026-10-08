@@ -213,6 +213,22 @@ Top 10 districts of the shortlist ([full table](outputs/tables/expansion_plan_to
 | **Final recommendation** | **6,765 new freezers** |
 | Rollout 2025 / 2026 / 2027 | 2,398 / 2,379 / 1,988 |
 
+### Sensitivity: how much does the Ideal TP setting matter?
+
+The Ideal TP of 15 liters per freezer per week is a judgement call, so [`scripts/ideal_tp_sensitivity.py`](scripts/ideal_tp_sensitivity.py) reruns the whole model for values from 13 to 17 ([table](outputs/tables/ideal_tp_sensitivity.csv)).
+
+| Ideal TP | Shortlisted districts | Phase 1 demand | Final new outlets |
+|---:|---:|---:|---:|
+| 13 | 50 | 34,979 | 7,601 |
+| 14 | 50 | 30,873 | 7,220 |
+| **15 (model setting)** | **44** | **26,899** | **6,765** |
+| 16 | 34 | 24,567 | 5,973 |
+| 17 | 29 | 22,561 | 5,293 |
+
+Demand moves a lot with this setting, but the final recommendation moves much less, because in most districts the number of suitable shops (Phase 2) is the real limit. The plan is therefore robust to a reasonable range of Ideal TP choices.
+
+![Ideal TP sensitivity](outputs/figures/08_ideal_tp_sensitivity.png)
+
 ## 8. Company wide impact
 
 The real project went far beyond one investment number. Splitting the business into districts gave every department a common, data driven map of the market.
