@@ -11,7 +11,7 @@ A district level investment model built with geospatial data science (Python, Ge
 ![pandas](https://img.shields.io/badge/pandas-NumPy%20%7C%20SciPy-150458?logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-Formula%20model-217346?logo=microsoftexcel&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-Macro-5C2D91)
-![Tests](https://img.shields.io/badge/tests-21%20passing-2a78d6)
+[![tests](https://github.com/mbaqirdilawari/retail-footprint-expansion-model/actions/workflows/tests.yml/badge.svg)](https://github.com/mbaqirdilawari/retail-footprint-expansion-model/actions/workflows/tests.yml)
 
 > [!IMPORTANT]
 > **All sales, retailer and store data in this repository is simulated.** It is not real company data, and it exists only to explain the method.
